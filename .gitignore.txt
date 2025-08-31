@@ -1,0 +1,35 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.log
+*.vs
+*.vscode
+*.opensdf
+*.sdf
+*.xcodeproj
+*.xcworkspace
+*.idea
+
+# Build
+Build/
+
+# Compiled binary files
+*.exe
+*.dll
+*.pdb
+*.app
+*.dSYM
+
+# Backup files
+*.bak
+*.tmp
+
+# Auto-generated files
+*.suo
+*.user
+*.userprefs
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
